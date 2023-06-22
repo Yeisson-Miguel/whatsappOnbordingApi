@@ -1,0 +1,8 @@
+{
+    "meta_api": {
+        "host":"",
+        "path":"",
+        "token":"",
+        "token-type":"Bearer "
+    }
+}
